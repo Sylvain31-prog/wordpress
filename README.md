@@ -1,1 +1,1 @@
-# wordpress
+# wordpress repository of my localhost
